@@ -44,10 +44,12 @@ python script.py
 \`\`\`
 
 
-# Pre-processing
+# More detail about the project scrip and functionalities.
+
+## Pre-processing
 The pre-processing process include downloading the paper in pdf format. 
 
-# After running, the script doing the following things: 
+## After running, the script doing the following things: 
 1. Read the pdf file and fetch the "Abstract" part of the paper
 2. Handling the content, removing stop words, stemming or lemmatizing words, and handling any special characters or formatting issues.
 3. Vectorisation the text. This involves the vectorisation process using TF-IDF and word2Vector.
@@ -56,7 +58,7 @@ The pre-processing process include downloading the paper in pdf format.
 6. Generate a report and save the clustering results to a new file.
 
 
-# About the `requirements.txt`
+## About the `requirements.txt`
 \`\`\`plaintext
 nltk==3.6.2
 numpy==1.20.3
@@ -68,17 +70,17 @@ PyPDF2==1.26.0
 \`\`\`
 
 
-# About the text vectorisation
+## About the text vectorisation
 Basically, the vectorisation process involves the following techniques:     TF-IDF: Converts texts into a sparse matrix of TF-IDF scores for terms in the documents.
 Word2Vec: Trains a Word2Vec model on tokenized texts and converts each text into a vector. This basically include averaging the word vectors.
 
-# About the Evaluation:
+## About the Evaluation:
 The script applied Elbow Method and Silhouette Analysis to determine the optimal number of clusters. Also, the quality of the clustering results is being determined. 
 
-# About the visualisation
+## About the visualisation
 Applied PCA , t-SNE to reduce the #dim. In the diagrams, the numebr of each paper are labelled. 
 
-# Generate a Report
+## Generate a Report
 A well-structured reprot is generated after the program is executed.
 The pdf report contains the result of the clustering and visualisation. 
 
