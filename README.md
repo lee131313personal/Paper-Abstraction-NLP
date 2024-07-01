@@ -20,7 +20,7 @@ source venv/bin/activate
 # Dependencies and Libraries
 pip install -r requirements.txt 
 
-Please note that the "requirements.txt" needs to be prepared manually. 
+Please note that the "requirements.txt" needs to be prepared manually, more detailed information will be given.
 
 ## Make sure the directory tree is the same as below
 
@@ -66,4 +66,19 @@ scikit-learn==0.24.2
 gensim==4.0.1
 PyPDF2==1.26.0
 \`\`\`
+
+
+# About the text vectorisation
+Basically, the vectorisation process involves the following techniques:     TF-IDF: Converts texts into a sparse matrix of TF-IDF scores for terms in the documents.
+Word2Vec: Trains a Word2Vec model on tokenized texts and converts each text into a vector. This basically include averaging the word vectors.
+
+# About the Evaluation:
+The script applied Elbow Method and Silhouette Analysis to determine the optimal number of clusters. Also, the quality of the clustering results is being determined. 
+
+# About the visualisation
+Applied PCA , t-SNE to reduce the #dim. In the diagrams, the numebr of each paper are labelled. 
+
+# Generate a Report
+A well-structured reprot is generated after the program finish executing. The pdf report contains the result of the clustering and visualisation. 
+
 
