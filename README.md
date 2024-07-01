@@ -44,7 +44,7 @@ python script.py
 \`\`\`
 
 
-# More detail about the project scrip and functionalities.
+# More detail about the project script and functionalities.
 
 ## Pre-processing
 The pre-processing process include downloading the paper in pdf format. 
