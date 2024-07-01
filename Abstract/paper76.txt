@@ -1,0 +1,8 @@
+Abstract
+Due to the increasing greenhouse gas emissions, as well as due to the rapidly increasing use of renewable energy sources in the electricity generation over the last years, interest in hydrogen is rising again. Hydrogen can be used as a storage for renewable energy balancing the whole energy systems, and contributing to the decarbonization of the energy system, especially of the industry and the transport sector.
+
+The major objective of this paper is to discuss various ways of hydrogen production depending on the primary energy sources used. Moreover, the economic and environmental performance of three major hydrogen colors, as well as major barriers for faster deployment in fuel cell vehicles, are analyzed.
+
+The major conclusion is that the full environmental benefits of hydrogen use are highly dependent on the hydrogen production methods and primary sources used. Only green hydrogen with electricity from wind, PV and hydro has truly low emissions. All other sources like blue hydrogen with CCUS or electrolysis using the electricity grid have substantially higher emissions, coming close to grey hydrogen production. Another conclusion is that it is important to introduce an international market for hydrogen to lower costs and to produce hydrogen where conditions are best.
+
+Finally, the major open question remaining is whether – including all external costs of all energy carriers, hydrogen of any color may become economically competitive in any sector of the energy system. The future success of hydrogen is very dependent on technological development and resulting cost reductions, as well as on future priorities and the corresponding policy framework. The policy framework should support the shift from grey to green hydrogen.
