@@ -79,6 +79,7 @@ The script applied Elbow Method and Silhouette Analysis to determine the optimal
 Applied PCA , t-SNE to reduce the #dim. In the diagrams, the numebr of each paper are labelled. 
 
 # Generate a Report
-A well-structured reprot is generated after the program finish executing. The pdf report contains the result of the clustering and visualisation. 
+A well-structured reprot is generated after the program is executed.
+The pdf report contains the result of the clustering and visualisation. 
 
 
