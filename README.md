@@ -24,13 +24,13 @@ Please note that the "requirements.txt" needs to be prepared manually.
 
 ## Make sure the directory tree is the same as below
 
-\`\`\`plaintext
+
 .
-├── Abstracts                  # 目录：包含所有PDF文件
+├── Abstracts                  # All the pdf files being downloaded
 │   ├── paper1.pdf
 │   ├── paper2.pdf
 │   └── ...
-├── script.py                  # 主脚本文件
-├── requirements.txt           # 依赖项文件
-└── README.md                  # README文件
-\`\`\`
+├── script.py                  # script file
+├── requirements.txt           # dependencies
+└── README.md                  # README file
+
