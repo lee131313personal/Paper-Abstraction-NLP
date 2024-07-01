@@ -32,9 +32,13 @@ Please note that the "requirements.txt" needs to be prepared manually.
 │   └── ...
 
 
-├── script.py                  # script file
+ ├── script.py                  # script file
 
-├── requirements.txt           # dependencies
+ ├── requirements.txt           # dependencies
 
-└── README.md                  # README file
+ └── README.md                  # README file
 
+# Run the script
+\`\`\`bash
+python script.py
+\`\`\`
