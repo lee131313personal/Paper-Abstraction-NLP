@@ -33,6 +33,8 @@ Please note that the "requirements.txt" needs to be prepared manually.
 
 
 ├── script.py                  # script file
+
 ├── requirements.txt           # dependencies
+
 └── README.md                  # README file
 
