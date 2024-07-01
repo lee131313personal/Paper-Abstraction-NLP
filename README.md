@@ -59,7 +59,7 @@ The pre-processing process include downloading the paper in pdf format.
 
 
 ## About the `requirements.txt`
-\`\`\`plaintext
+
 nltk==3.6.2
 
 numpy==1.20.3
@@ -73,7 +73,7 @@ scikit-learn==0.24.2
 gensim==4.0.1
 
 PyPDF2==1.26.0
-\`\`\`
+
 
 
 ## About the text vectorisation
