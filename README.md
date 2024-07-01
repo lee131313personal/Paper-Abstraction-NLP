@@ -4,7 +4,7 @@
 This project aims to develop a script that clusters a given set of research papers based on their abstract similarity.
 
 ## Key words:
-Natural Language processing, Text processing, Unsupervised machine learning. 
+Natural Language processing, Text processing, Unsupervised machine learning, Clustering, Visualisation
 
 ## Set up the environment
 All the dependencies and library needs to be prepared. I recommend take advantage of virtual environment. 
